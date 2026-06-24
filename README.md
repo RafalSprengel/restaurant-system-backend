@@ -1,7 +1,7 @@
 
 <img width="2155" height="1363" alt="Zrzut ekranu 2026-01-06 125154" src="https://github.com/user-attachments/assets/3aea5291-1413-4f53-9152-81f60eef12d7" />
 
-## Restaurant POS - Backend API
+## Restaurant & Online Ordering System - Backend API
 
 The RESTful API engine for the Restaurant Point of Sale system. Built with Node.js and Express, it handles business logic, database persistence, and secure third-party integrations.
 
