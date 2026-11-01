@@ -1,6 +1,3 @@
-
-<img width="2155" height="1363" alt="Zrzut ekranu 2026-01-06 125154" src="https://github.com/user-attachments/assets/3aea5291-1413-4f53-9152-81f60eef12d7" />
-
 <img width="2155" height="1363" alt="Restaurant system screenshot" src="https://github.com/user-attachments/assets/3aea5291-1413-4f53-9152-81f60eef12d7" />
 
 # 🍽️ Restaurant & Online Ordering System – Backend API
